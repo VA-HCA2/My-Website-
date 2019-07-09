@@ -1,1 +1,7 @@
-h1{color: plum}
+h1{color: purple;
+    text-align:center;
+    margin-top: 25%}
+h2{color: plum;
+text-align:center}
+
+body{ background-color: lavender }
